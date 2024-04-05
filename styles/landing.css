@@ -1,7 +1,72 @@
-p {
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
   font-family: Poppins;
 }
+body {
+  background-color: #212036;
+}
 
+.landing {
+  margin-top: 40px;
+  display: block;
+}
+
+.landing-content {
+  display: block;
+  margin: auto;
+}
+
+.landing-image {
+  display: inline-block;
+}
+.logo {
+  height: 150px;
+}
+
+.landing-text {
+  display: inline-block;
+}
+
+.titlewrapper {
+  padding-top: 40px;
+}
+
+.description,.title {
+  margin: auto;
+  color: #fff;
+  font-weight: bold;
+  font-size: 48px;
+  text-align: center;
+}
+
+.description {
+  color: wheat;
+  width: 500px;
+  line-height: 40px;
+  font-size: 30px;
+}
+
+
+.header {
+  left: 0;
+  width: 100%;
+  padding: 1.3rem 10%;
+  background: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(10px);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.navbar a {
+  font-size: 20px;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+  margin-right: 40px;
+}
 .github-button {
   background-color: rgb(200, 0, 0);
   color: white;
