@@ -1,0 +1,37 @@
+body {
+  background-color: #212036;
+}
+p {
+  font-family: Poppins;
+  color: white;
+}
+.searchbox-container {
+  display: block;
+}
+.searchbox {
+  display: inline-block;
+  margin: auto;
+  width: 400px;
+}
+.results {
+  margin-top: 40px;
+
+}
+.queandans {
+  margin: auto;
+  display: block;
+  width: 700px;
+}
+
+
+.faq-q {
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+}
+.faq-a {
+  margin-top: 0;
+}
+.me-fr {
+  display: inline-block;
+}

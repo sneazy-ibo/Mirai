@@ -1,0 +1,70 @@
+p {
+  font-family: Poppins;
+}
+
+.github-button {
+  background-color: rgb(200, 0, 0);
+  color: white;
+  border: none;
+  border-radius: 2px;
+  height: 30px;
+  width: 60px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: opacity 0.15s;
+}
+
+.github-button:hover {
+  opacity: 0.8;
+}
+
+.github-button:active {
+  opacity: 0.6;
+}
+
+.join-button {
+  background-color: white;
+  color: rgb(49, 136, 223);
+  border-color: rgb(49, 136, 223);
+  border-style: solid;
+  border-radius: 2px;
+  border-width: 1px;
+  height: 30px;
+  width: 50px;
+  cursor: pointer;
+  margin-right: 8px;
+  transition: background-color 0.15s, color 0.15s;
+}
+
+.join-button:hover {
+  background-color: rgb(49, 136, 223);
+  color: white;
+}
+
+.join-button:active {
+  opacity: 0.8;
+}
+
+.tweet-button {
+  background-color: rgb(57, 140, 249);
+  color: white;
+  font-weight: bold;
+  border: none;
+  border-radius: 20px;
+  height: 36px;
+  width: 60px;
+  cursor: pointer;
+  transition: box-shadow 0.5s;
+}
+
+.tweet-button:hover {
+  box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+.lorem {
+  font-size: 18px;
+  font-weight: bold;
+  text-align: left;
+  width: 300px;
+  line-height: 24px;
+}
