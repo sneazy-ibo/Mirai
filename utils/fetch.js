@@ -9,8 +9,15 @@ fetch('https://raw.githubusercontent.com/rebelonion/Dantotsu/dev/app/src/main/re
     const faqContainer = document.getElementById('faq-container');
     
     questions.forEach((question, index) => {
-      const questionText = question.textContent.trim();
-      const answerText = answers[index].textContent.trim().replace(/&amp;/g, '&').replace(/\n/g, '<br>');
+      let questionText = question.textContent.trim();
+      questionText = questionText.replace(/Can\\\'t/g, "Can't").replace(/can\\\'t/g, "can't");
+      
+      let answerText = answers[index].textContent.trim().replace(/\\n/g, '<br>').replace(/\\'/g, '\'').replace(/&amp;/g, '&');
+      
+      answerText = answerText.replace(/\[([^[]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+      answerText = answerText.replace(/`([^`]+)`/g, '<span style="background-color: purple; color: white; padding: 0.2em;">$1</span>');
+      answerText = answerText.replace(/Can\\\'t/g, "Can't").replace(/can\\\'t/g, "can't");
+      answerText = answerText.replace(/-/g, '•');
       
       const faqDiv = document.createElement('div');
       faqDiv.classList.add('queandans');
