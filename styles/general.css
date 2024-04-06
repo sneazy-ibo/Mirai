@@ -1,0 +1,17 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins;
+  color: white;
+}
+body {
+  margin: 0;
+  padding: 0;
+  padding-top: 10px;
+  background-color: #212036;
+}
+p {
+  font-family: Poppins;
+  color: white;
+}
