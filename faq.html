@@ -9,6 +9,7 @@
   <link rel="stylesheet" href="styles/nav.css">
   <link rel="stylesheet" href="styles/faq.css">
   <script src="utils/fetch.js" defer></script>
+  <script src="utils/search.js" defer></script>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link
@@ -26,10 +27,13 @@
   </header>
 
   <div class="searchbox-container">
-    <input class="searchbox" type="text" placeholder="Search frequently asked Questions">
+    <input class="searchbox" type="text" id="searchInput" placeholder="Search frequently asked Questions"
+      style="color: #5F5D9A;">
   </div>
 
-  <div class="results" id="faq-container"></div>
+  <div class="results" id="faq-container">
+
+  </div>
 
 </body>
 
