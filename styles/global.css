@@ -9,9 +9,18 @@ body {
   margin: 0;
   padding: 0;
   padding-top: 10px;
-  background-color: #212036;
+  background-color:#17001A;
 }
 p {
   font-family: Poppins;
   color: white;
+}
+
+:root {
+  --dantotsu-1:#FF00F5;
+  --dantotsu-2:#D401E6;
+  --dantotsu-3:#A800D9;
+  --dantotsu-4:#9000D1;
+  --dantotsu-5:#7100B9;
+  --dantotsu-6:#1F1F30;
 }
