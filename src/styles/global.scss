@@ -1,0 +1,110 @@
+@import url(theme.light.scss) (prefers-color-scheme: light);
+@import url(theme.dark.scss) (prefers-color-scheme: dark);
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Poppins;
+  color: white;
+}
+
+html {
+  box-sizing: border-box;
+  overflow-x: hidden;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.4;
+  background-color: var(--bg-color);
+  overflow-x: hidden;
+}
+
+.wrapper {
+  min-height: 0vw;
+  margin: 15em;
+  margin-inline: auto;
+  width: min(90%, 62rem) !important;
+
+  @media (max-width: 868px) {
+      margin-bottom: 4.75rem;
+  }
+
+  @media (max-width: 768px) {
+      width: min(88%, 65rem) !important;
+  }
+}
+
+:root {
+  --bezier-one: cubic-bezier(0.25, 0.46, 0.45, 0.94);
+  --dantotsu-0:#FFFFFF;
+  --dantotsu-1:#FF00F5;
+  --dantotsu-2:#D401E6;
+  --dantotsu-3:#A800D9;
+  --dantotsu-4:#9000D1;
+  --dantotsu-5:#7100B9;
+  --dantotsu-6:#1F1F30;
+}
+
+/*-----font-decor-----*/
+@import 'mixins.scss';
+
+p {
+  width: 30em;
+  letter-spacing: 0.1rem;
+  @include text-gradient(170deg, (
+    var(--dantotsu-0) 0%,
+    var(--dantotsu-4) 80%
+  ));
+}
+
+h1 {
+  @include text-gradient(120deg, (
+    var(--dantotsu-0) 0%,
+    var(--dantotsu-1) 50%,
+    var(--dantotsu-4) 60%
+  ));
+  font-weight: bold;
+  font-size: 3em;
+  letter-spacing: 0.077rem;
+  margin-bottom: -0.10em;
+}
+
+h2 {
+  @include text-gradient(to right, (
+    var(--dantotsu-5) 0%,
+    var(--dantotsu-1) 10%,
+    var(--dantotsu-0) 28%
+  ));
+  font-size: 1.6em;
+  font-weight: bold;
+  letter-spacing: 0.077rem;
+  margin-bottom: 0.4em;
+}
+
+h3 {
+  @include text-gradient(to right, (
+    var(--dantotsu-0) 0%,
+    var(--dantotsu-1) 30%,
+    var(--dantotsu-4) 60%
+  ));
+  font-size: 1em;
+  font-weight: 700;
+  letter-spacing: 0.021rem;
+  padding-bottom: 1.4em;
+}
+
+h4 {
+  @include text-gradient(120deg, (
+    var(--dantotsu-0) 0%,
+    var(--dantotsu-1) 30%,
+    var(--dantotsu-4) 60%
+  ));
+  width: 21em;
+  font-weight: 400;
+  line-height: 0.05rem;
+  line-height: 160%;
+  letter-spacing: 0.02rem;
+}
