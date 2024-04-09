@@ -3,6 +3,7 @@
 	import '../styles/fonts.scss';
 	import NavHost from '../components/nucleons/NavHost.svelte';
 	import Hero from '../components/atoms/Hero.svelte';
+	import Global from '../components/atoms/Global.svelte';
 	import Syncing from '../components/atoms/Syncing.svelte';
 	import Allinone from '../components/atoms/Allinone.svelte';
 	import Languages from '../components/atoms/Languages.svelte';
@@ -17,6 +18,7 @@
 
 <main>
 	<Hero />
+	<Global />
 	<Syncing />
 	<Allinone />
 	<Languages />

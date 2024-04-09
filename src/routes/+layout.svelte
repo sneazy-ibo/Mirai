@@ -1,4 +1,5 @@
 <script lang="ts">
+	import "svelte-reveal/styles.css"
 	import { onMount } from 'svelte';
 	import '../styles/global.scss';
 	import '../styles/fonts.scss';
@@ -8,7 +9,7 @@
 	let playSFX: (() => void) | undefined;
 
 	onMount(() => {
-		// need to create our own audio context as the default Audio() pauses any music playing
+		// need to create own audio context as the default Audio() pauses any music playing
 		let buffer: AudioBuffer;
 		const audioCtx = new window.AudioContext();
 		const request = new XMLHttpRequest();

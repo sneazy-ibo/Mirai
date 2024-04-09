@@ -1,66 +1,71 @@
 <script>
-	export let side = false;
+  export let label = "Button";
 </script>
 
-<button on:click on:keypress class:button-with-side={side}>
-	<div class:side />
-	<slot />
-</button>
-
 <style lang="scss">
-	button {
-		font-size: 100%;
-		border-radius: 16px;
-		border: none;
-		display: flex;
-		position: relative;
-		flex-direction: row;
-		width: max-content;
-		cursor: pointer;
-		background-color: var(--bg-color);
-		transition: filter 0.2s var(--bezier-one), transform 0.5s var(--bezier-one);
-		user-select: none;
-		margin-top: 1em;
-		padding: 1rem 2rem;
-		color: var(--dantotsu-1);
-		font-weight: 300;
-		font-size: 1.6rem;
-		letter-spacing: -0.075em;
-		border: 1px solid var(--dantotsu-1);
+@import url('https://fonts.googleapis.com/css?family=Space%20Grotesk:700|Space%20Grotesk:400');
 
-		&:active {
-			transform: scale(95%);
-		}
+:root {
+  --m: 1.3rem;
+  //BF00FF C519FF CC33FF D24DFF
+  --red: #BF00FF;
+  --pink: #c82cfd;
+  --purple: #d556ff;
+  --blue: #dd76ff;
+  --green: #CC33FF;
+  --yellow: #C519FF;
+  --orange: #BF00FF;
+  
+}
 
-		&:hover {
-			filter: brightness(110%);
-		}
+button {
+  border: calc(0.08 * var(--m)) solid transparent;
+  position: relative;
+  width: 5em;
+  color: #F3F3F3;
+  font-family: 'Space Grotesk';
+  font-size: var(--m);
+  animation: none;
+  border-radius: calc(0.7 * var(--m));
+  padding: calc(0.5 * var(--m)) calc(1 * var(--m));
+  display: flex;
+  justify-content: center;
+  cursor: pointer;
+  
+  background:linear-gradient(var(--dantotsu-6), var(--dantotsu-6)), linear-gradient(#121213 50%, rgba(18, 18, 19, 0.6) 80%, rgba(18, 18, 19, 0)),  linear-gradient(90deg, var(--orange), var(--yellow), var(--green), var(--blue), var(--purple), var(--pink), var(--red));
+  background-origin: border-box;
+  background-clip: padding-box, border-box, border-box;
+  background-size: 200%;
+  animation: animate 2s infinite linear;
+}
 
-		@media screen and (max-width: 868px) {
-			text-align: center;
-			justify-content: center;
-			padding: 1rem 2rem;
-			width: 100%;
-			font-size: clamp(1.1rem, 2vw, 1.9rem);
-		}
-	}
+button::before {
+  content: '';
+  background: linear-gradient(90deg, var(--orange), var(--yellow), var(--green), var(--blue), var(--purple), var(--pink), var(--red));
+  height: 30%;
+  width: 60%;
+  position: absolute;
+  bottom: -20%;
+  z-index: -5;
+  background-size: 200%;
+  animation: animate 2s infinite linear;
+  filter: blur(calc(0.8 * var(--m)));
+}
 
-	.button-with-side {
-		padding: 1rem 2rem 1rem 3rem;
-	}
+button:hover, button:hover::before {
+  animation: animate 0.5s infinite linear;
+}
 
-	.side {
-		position: absolute;
-		border-radius: 16px 0 0 16px;
-		top: 0;
-		left: 0;
-		content: '';
-		height: 100%;
-		width: 1.6rem;
-		background-color: var(--dantotsu-1);
+@keyframes animate {
+  0% {background-position: 0}
+  100% {background-position: 200%}
+}
 
-		@media screen and (max-width: 868px) {
-			display: none;
-		}
-	}
+@media screen and (max-width: 1000px) {
+  :root {
+    --m: 2rem;
+  }
+}
 </style>
+
+<button>{label}</button>

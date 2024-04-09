@@ -1,6 +1,7 @@
 <script>
-	import HeroImage from '../../components/quarks/HeroImage.svelte';
-	import Button from '../quarks/Downy.svelte';
+	import HeroImage from '../quarks/HeroImage.svelte';
+	import { reveal } from 'svelte-reveal';
+	import Downies from '../nucleons/Downies.svelte';
 	
 	function handleClick() {
 		const el = document.querySelector('#aw');
@@ -9,17 +10,16 @@
 	}
 </script>
 
-<section id="home" class="wrapper">
-	<div>
-		<h1>Dantotsu</h1>
-		<h3>The best of the best</h3>
-		<h4>Read and watch animes and mangas anytime and everywhere</h4>
-		<div class="socials">
-			
+<section class="herowrapper">
+	<section id="home" class="wrapper">
+		<div>
+			<h1>Dantotsu</h1>
+			<h3>The best of the best</h3>
+			<h4>Read and watch animes and mangas anytime and everywhere</h4>
+			<Downies/>
 		</div>
-		<Button side on:click={handleClick} on:keypress={handleClick}>Features ↓</Button>
-	</div>
-	<HeroImage/>
+		<HeroImage/>
+	</section>
 </section>
 
 <style lang="scss">
