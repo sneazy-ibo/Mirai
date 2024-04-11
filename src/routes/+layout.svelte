@@ -9,6 +9,16 @@
 	let playSFX: (() => void) | undefined;
 
 	onMount(() => {
+		setTimeout(() => {
+      loading = false;
+      const preloader = document.querySelector('.preloader');
+      if (preloader) {
+        preloader.classList.add('hide');
+        setTimeout(() => {
+          preloader.remove();
+        }, 4000);
+      }
+    }, 4000);
 		// need to create own audio context as the default Audio() pauses any music playing
 		let buffer: AudioBuffer;
 		const audioCtx = new window.AudioContext();
@@ -63,6 +73,10 @@
 
 <svelte:window on:click={playSFX} />
 
+<div class="preloader" class:hide={!loading}>
+  <div class="preloader-text">断トツ</div>
+</div>
+
 <Cursor />
 <span class:loading>
 	<slot />
@@ -72,4 +86,28 @@
 	.loading * {
 		transition: none;
 	}
+
+	.preloader {
+	  position: fixed;
+	  top: 0;
+	  left: 0;
+	  width: 100%;
+	  height: 100%;
+	  background-color: var(--bg-color);
+	  display: flex;
+	  align-items: center;
+	  justify-content: center;
+	  z-index: 9999;
+		transition: opacity 1.6s var(--bezier-one);
+	}
+
+	.hide {
+    opacity: 0;
+  }
+
+	.preloader-text {
+  font-size: 24px;
+  color: var(--dantotsu-1);
+  font-weight: bold;
+}
 </style>

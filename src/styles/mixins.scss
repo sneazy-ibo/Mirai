@@ -1,4 +1,4 @@
-// mixins.scss
+@use "sass:math";
 
 @mixin text-gradient($direction, $colors) {
   $gradient: '';
@@ -13,5 +13,13 @@
   background-clip: text;
   -webkit-text-fill-color: transparent;
 }
-  
-// Define other mixins here if needed
+
+@mixin text-glow($color, $steps, $min-radius, $max-radius) {
+  $glow-values: ();
+  $step-size: math.div($max-radius - $min-radius, $steps);
+  @for $i from 0 through $steps {
+    $radius: $min-radius + ($step-size * $i);
+    $glow-values: append($glow-values, 0 0 $radius $color, comma);
+  }
+  text-shadow: $glow-values;
+}

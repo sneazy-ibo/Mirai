@@ -1,6 +1,4 @@
 <script>
-	import '../styles/global.scss';
-	import '../styles/fonts.scss';
 	import NavHost from '../components/nucleons/NavHost.svelte';
 	import Hero from '../components/atoms/Hero.svelte';
 	import Global from '../components/atoms/Global.svelte';
