@@ -16,9 +16,9 @@
         preloader.classList.add('hide');
         setTimeout(() => {
           preloader.remove();
-        }, 4000);
+        }, 500);
       }
-    }, 4000);
+    }, 2000);
 		// need to create own audio context as the default Audio() pauses any music playing
 		let buffer: AudioBuffer;
 		const audioCtx = new window.AudioContext();
@@ -98,6 +98,7 @@
 	  align-items: center;
 	  justify-content: center;
 	  z-index: 9999;
+		pointer-events: none;
 		transition: opacity 1.6s var(--bezier-one);
 	}
 
