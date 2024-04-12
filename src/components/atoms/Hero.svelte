@@ -37,7 +37,7 @@
 	font-weight: bold;
 	font-size: 6rem;
 	color: #FFBEFF;
-	@include text-glow(#ffbeff, 1, 90px, 120px);
+	@include glow(#ffbeff, 1, 90px, 120px);
 }
 
 section {

@@ -14,7 +14,7 @@
   -webkit-text-fill-color: transparent;
 }
 
-@mixin text-glow($color, $steps, $min-radius, $max-radius) {
+@mixin glow($color, $steps, $min-radius, $max-radius) {
   $glow-values: ();
   $step-size: math.div($max-radius - $min-radius, $steps);
   @for $i from 0 through $steps {
