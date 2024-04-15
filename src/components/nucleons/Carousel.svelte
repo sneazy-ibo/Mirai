@@ -48,8 +48,8 @@
   }
 
   img:hover {
-    outline: 3px solid rgba(255, 255, 255, 0.23);
-    border-radius: 10px;
+    outline: 5px solid rgba(255, 255, 255, 0.23);
+    border-radius: 5px;
   }
 
   .position-0 {

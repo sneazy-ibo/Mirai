@@ -5,8 +5,8 @@
 	import Socials from '../nucleons/Socials.svelte';
 </script>
 
-<section id="home" class="wrapper">
-	<div class="container">
+<section id="home" class="hero-wrapper">
+	<div class="text-container">
 		<p class="glowing-text">断<br>ト<br>ツ</p>
 	</div>	
 	<div>
@@ -24,7 +24,7 @@
 <style lang="scss">
 @import '../../styles/mixins';
 
-.container {
+.text-container {
 	position: absolute;
 	width: 10em;
 	height: 10em;

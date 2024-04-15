@@ -22,7 +22,7 @@ body {
   overflow-x: hidden;
 }
 
-.wrapper {
+%wrapper-styles {
   min-height: 0vw;
   margin: 15em;
   margin-inline: auto;
@@ -35,6 +35,25 @@ body {
   @media (max-width: 768px) {
       width: min(88%, 65rem) !important;
   }
+}
+
+.wrapper {
+  @extend %wrapper-styles;
+
+  display: flex;
+  align-items: flex-start;
+  
+  > div {
+    flex: 1;
+  }
+}
+
+.hero-wrapper {
+  @extend %wrapper-styles;
+}
+
+.container {
+  flex-shrink: 0;
 }
 
 :root {
