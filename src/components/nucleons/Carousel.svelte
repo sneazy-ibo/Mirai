@@ -45,6 +45,7 @@
   img {
     transition: transform 0.5s ease;
     position: absolute;
+    border-radius: 5px;
   }
 
   img:hover {
@@ -83,6 +84,6 @@
       #FFBFFF 0%,
       #FFBFFF 100%
     ));
-    @include glow(#FFBFFF, 2, 90px, 170px);
+    @include text-glow(#FFBFFF, 2, 90px, 170px);
   }
 </style>

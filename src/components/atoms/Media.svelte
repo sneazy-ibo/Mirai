@@ -18,4 +18,8 @@
   margin-right: 2em;
 }
 
+h2, p {
+  padding-left: 2rem;
+}
+
 </style>
