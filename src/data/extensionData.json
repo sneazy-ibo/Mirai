@@ -1,0 +1,1730 @@
+[
+  {
+    "name": "AnimeOnsen",
+    "type": "anime",
+    "language": "all",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.animeonsen.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.animeonsen-v14.7.apk"
+  },
+  {
+    "name": "AnimeUI",
+    "type": "anime",
+    "language": "all",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.animeui.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.animeui-v14.2.apk"
+  },
+  {
+    "name": "AnimeWorld India",
+    "type": "anime",
+    "language": "all",
+    "version": "14.11",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.animeworldindia.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.animeworldindia-v14.11.apk"
+  },
+  {
+    "name": "AnimeXin",
+    "type": "anime",
+    "language": "all",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.animexin.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.animexin-v14.10.apk"
+  },
+  {
+    "name": "ChineseAnime",
+    "type": "anime",
+    "language": "all",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.chineseanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.chineseanime-v14.10.apk"
+  },
+  {
+    "name": "Google Drive",
+    "type": "anime",
+    "language": "all",
+    "version": "14.15",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.googledrive.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.googledrive-v14.15.apk"
+  },
+  {
+    "name": "GoogleDriveIndex",
+    "type": "anime",
+    "language": "all",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.googledriveindex.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.googledriveindex-v14.7.apk"
+  },
+  {
+    "name": "Jav Guru",
+    "type": "anime",
+    "language": "all",
+    "version": "14.15",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.javguru.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.javguru-v14.15.apk"
+  },
+  {
+    "name": "Jellyfin",
+    "type": "anime",
+    "language": "all",
+    "version": "14.13",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.jellyfin.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.jellyfin-v14.13.apk"
+  },
+  {
+    "name": "LMAnime",
+    "type": "anime",
+    "language": "all",
+    "version": "14.8",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.lmanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.lmanime-v14.8.apk"
+  },
+  {
+    "name": "MissAV",
+    "type": "anime",
+    "language": "all",
+    "version": "14.11",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.missav.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.missav-v14.11.apk"
+  },
+  {
+    "name": "Sudatchi",
+    "type": "anime",
+    "language": "all",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.sudatchi.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.sudatchi-v14.1.apk"
+  },
+  {
+    "name": "SupJav",
+    "type": "anime",
+    "language": "all",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.supjav.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.supjav-v14.7.apk"
+  },
+  {
+    "name": "Torrentio Anime (Torrent / Debrid)",
+    "type": "anime",
+    "language": "all",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.all.torrentioanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-all.torrentioanime-v14.4.apk"
+  },
+  {
+    "name": "AllAnime",
+    "type": "anime",
+    "language": "en",
+    "version": "14.31",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.allanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.allanime-v14.31.apk"
+  },
+  {
+    "name": "AllAnimeChi",
+    "type": "anime",
+    "language": "en",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.allanimechi.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.allanimechi-v14.6.apk"
+  },
+  {
+    "name": "AllMovies",
+    "type": "anime",
+    "language": "en",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.allmovies.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.allmovies-v14.12.apk"
+  },
+  {
+    "name": "AnimeFlix",
+    "type": "anime",
+    "language": "en",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.animeflix.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.animeflix-v14.7.apk"
+  },
+  {
+    "name": "Animeflix.live",
+    "type": "anime",
+    "language": "en",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.animeflixlive.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.animeflixlive-v14.4.apk"
+  },
+  {
+    "name": "AnimeKhor",
+    "type": "anime",
+    "language": "en",
+    "version": "14.5",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.animekhor.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.animekhor-v14.5.apk"
+  },
+  {
+    "name": "Animenosub",
+    "type": "anime",
+    "language": "en",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.animenosub.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.animenosub-v14.6.apk"
+  },
+  {
+    "name": "Animension",
+    "type": "anime",
+    "language": "en",
+    "version": "14.20",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.animension.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.animension-v14.20.apk"
+  },
+  {
+    "name": "AnimeOwl",
+    "type": "anime",
+    "language": "en",
+    "version": "14.18",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.animeowl.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.animeowl-v14.18.apk"
+  },
+  {
+    "name": "AnimePahe",
+    "type": "anime",
+    "language": "en",
+    "version": "14.27",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.animepahe.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.animepahe-v14.27.apk"
+  },
+  {
+    "name": "AnimeParadise",
+    "type": "anime",
+    "language": "en",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.animeparadise.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.animeparadise-v14.1.apk"
+  },
+  {
+    "name": "Anime Sakura",
+    "type": "anime",
+    "language": "en",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.animesakura.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.animesakura-v14.2.apk"
+  },
+  {
+    "name": "AnimeTake",
+    "type": "anime",
+    "language": "en",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.animetake.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.animetake-v14.4.apk"
+  },
+  {
+    "name": "AsiaFlix",
+    "type": "anime",
+    "language": "en",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.asiaflix.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.asiaflix-v14.10.apk"
+  },
+  {
+    "name": "AsianLoad",
+    "type": "anime",
+    "language": "en",
+    "version": "14.38",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.asianload.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.asianload-v14.38.apk"
+  },
+  {
+    "name": "Ask4Movie",
+    "type": "anime",
+    "language": "en",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.ask4movie.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.ask4movie-v14.12.apk"
+  },
+  {
+    "name": "BestDubbedAnime",
+    "type": "anime",
+    "language": "en",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.bestdubbedanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.bestdubbedanime-v14.4.apk"
+  },
+  {
+    "name": "DonghuaStream",
+    "type": "anime",
+    "language": "en",
+    "version": "14.8",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.donghuastream.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.donghuastream-v14.8.apk"
+  },
+  {
+    "name": "DopeBox",
+    "type": "anime",
+    "language": "en",
+    "version": "14.28",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.dopebox.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.dopebox-v14.28.apk"
+  },
+  {
+    "name": "DramaCool",
+    "type": "anime",
+    "language": "en",
+    "version": "14.48",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.dramacool.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.dramacool-v14.48.apk"
+  },
+  {
+    "name": "edytjedhgmdhm",
+    "type": "anime",
+    "language": "en",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.edytjedhgmdhm.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.edytjedhgmdhm-v14.4.apk"
+  },
+  {
+    "name": "FMovies",
+    "type": "anime",
+    "language": "en",
+    "version": "14.21",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.fmovies.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.fmovies-v14.21.apk"
+  },
+  {
+    "name": "GenoAnime",
+    "type": "anime",
+    "language": "en",
+    "version": "14.33",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.genoanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.genoanime-v14.33.apk"
+  },
+  {
+    "name": "Gogoanime",
+    "type": "anime",
+    "language": "en",
+    "version": "14.82",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.gogoanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.gogoanime-v14.82.apk"
+  },
+  {
+    "name": "haho.moe",
+    "type": "anime",
+    "language": "en",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.hahomoe.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.hahomoe-v14.10.apk"
+  },
+  {
+    "name": "hanime.tv",
+    "type": "anime",
+    "language": "en",
+    "version": "14.18",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.hanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.hanime-v14.18.apk"
+  },
+  {
+    "name": "HentaiMama",
+    "type": "anime",
+    "language": "en",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.hentaimama.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.hentaimama-v14.7.apk"
+  },
+  {
+    "name": "Hstream",
+    "type": "anime",
+    "language": "en",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.hstream.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.hstream-v14.7.apk"
+  },
+  {
+    "name": "Kaido",
+    "type": "anime",
+    "language": "en",
+    "version": "14.8",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.kaido.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.kaido-v14.8.apk"
+  },
+  {
+    "name": "Kawaiifu",
+    "type": "anime",
+    "language": "en",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.kawaiifu.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.kawaiifu-v14.4.apk"
+  },
+  {
+    "name": "Kayoanime",
+    "type": "anime",
+    "language": "en",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.kayoanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.kayoanime-v14.12.apk"
+  },
+  {
+    "name": "KickAssAnime",
+    "type": "anime",
+    "language": "en",
+    "version": "14.41",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.kickassanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.kickassanime-v14.41.apk"
+  },
+  {
+    "name": "KimoiTV",
+    "type": "anime",
+    "language": "en",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.kimoitv.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.kimoitv-v14.1.apk"
+  },
+  {
+    "name": "KissAnime",
+    "type": "anime",
+    "language": "en",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.kissanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.kissanime-v14.6.apk"
+  },
+  {
+    "name": "KissKH",
+    "type": "anime",
+    "language": "en",
+    "version": "14.3",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.kisskh.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.kisskh-v14.3.apk"
+  },
+  {
+    "name": "LuciferDonghua",
+    "type": "anime",
+    "language": "en",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.luciferdonghua.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.luciferdonghua-v14.6.apk"
+  },
+  {
+    "name": "Multimovies",
+    "type": "anime",
+    "language": "en",
+    "version": "14.17",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.multimovies.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.multimovies-v14.17.apk"
+  },
+  {
+    "name": "Myanime",
+    "type": "anime",
+    "language": "en",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.myanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.myanime-v14.6.apk"
+  },
+  {
+    "name": "My Running Man",
+    "type": "anime",
+    "language": "en",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.myrunningman.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.myrunningman-v14.4.apk"
+  },
+  {
+    "name": "Aniwave",
+    "type": "anime",
+    "language": "en",
+    "version": "14.66",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.nineanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.nineanime-v14.66.apk"
+  },
+  {
+    "name": "NollyVerse",
+    "type": "anime",
+    "language": "en",
+    "version": "14.3",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.nollyverse.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.nollyverse-v14.3.apk"
+  },
+  {
+    "name": "NoobSubs",
+    "type": "anime",
+    "language": "en",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.noobsubs.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.noobsubs-v14.1.apk"
+  },
+  {
+    "name": "Oppai Stream",
+    "type": "anime",
+    "language": "en",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.oppaistream.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.oppaistream-v14.4.apk"
+  },
+  {
+    "name": "PutLocker",
+    "type": "anime",
+    "language": "en",
+    "version": "14.8",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.putlocker.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.putlocker-v14.8.apk"
+  },
+  {
+    "name": "Ripcrabbyanime",
+    "type": "anime",
+    "language": "en",
+    "version": "14.13",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.ripcrabbyanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.ripcrabbyanime-v14.13.apk"
+  },
+  {
+    "name": "Rule34Video",
+    "type": "anime",
+    "language": "en",
+    "version": "14.8",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.rule34video.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.rule34video-v14.8.apk"
+  },
+  {
+    "name": "Seez",
+    "type": "anime",
+    "language": "en",
+    "version": "14.8",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.seez.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.seez-v14.8.apk"
+  },
+  {
+    "name": "SFlix",
+    "type": "anime",
+    "language": "en",
+    "version": "14.27",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.sflix.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.sflix-v14.27.apk"
+  },
+  {
+    "name": "SlothAnime",
+    "type": "anime",
+    "language": "en",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.slothanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.slothanime-v14.2.apk"
+  },
+  {
+    "name": "SuperStream",
+    "type": "anime",
+    "language": "en",
+    "version": "14.11",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.superstream.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.superstream-v14.11.apk"
+  },
+  {
+    "name": "Tokuzilla",
+    "type": "anime",
+    "language": "en",
+    "version": "14.15",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.tokuzilla.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.tokuzilla-v14.15.apk"
+  },
+  {
+    "name": "UHD Movies",
+    "type": "anime",
+    "language": "en",
+    "version": "14.19",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.uhdmovies.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.uhdmovies-v14.19.apk"
+  },
+  {
+    "name": "UniqueStream",
+    "type": "anime",
+    "language": "en",
+    "version": "14.3",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.uniquestream.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.uniquestream-v14.3.apk"
+  },
+  {
+    "name": "Wcofun",
+    "type": "anime",
+    "language": "en",
+    "version": "14.13",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.wcofun.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.wcofun-v14.13.apk"
+  },
+  {
+    "name": "WCOStream",
+    "type": "anime",
+    "language": "en",
+    "version": "14.5",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.wcostream.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.wcostream-v14.5.apk"
+  },
+  {
+    "name": "HiAnime",
+    "type": "anime",
+    "language": "en",
+    "version": "14.42",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.en.zoro.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-en.zoro-v14.42.apk"
+  },
+  {
+    "name": "Akwam",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.9",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.akwam.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.akwam-v14.9.apk"
+  },
+  {
+    "name": "Anime4up",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.54",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.anime4up.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.anime4up-v14.54.apk"
+  },
+  {
+    "name": "Anime Blkom",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.17",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.animeblkom.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.animeblkom-v14.17.apk"
+  },
+  {
+    "name": "Animeiat",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.animeiat.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.animeiat-v14.1.apk"
+  },
+  {
+    "name": "AnimeLek",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.29",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.animelek.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.animelek-v14.29.apk"
+  },
+  {
+    "name": "Animerco",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.36",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.animerco.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.animerco-v14.36.apk"
+  },
+  {
+    "name": "ArabAnime",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.arabanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.arabanime-v14.2.apk"
+  },
+  {
+    "name": "Arab Seed",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.arabseed.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.arabseed-v14.12.apk"
+  },
+  {
+    "name": "asia2tv",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.17",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.asia2tv.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.asia2tv-v14.17.apk"
+  },
+  {
+    "name": "Egy Dead",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.egydead.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.egydead-v14.12.apk"
+  },
+  {
+    "name": "FASELHD",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.14",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.faselhd.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.faselhd-v14.14.apk"
+  },
+  {
+    "name": "MY CIMA",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.20",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.mycima.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.mycima-v14.20.apk"
+  },
+  {
+    "name": "Okanime",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.okanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.okanime-v14.7.apk"
+  },
+  {
+    "name": "Tuktuk Cinema",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.21",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.tuktukcinema.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.tuktukcinema-v14.21.apk"
+  },
+  {
+    "name": "WIT ANIME",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.48",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.witanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.witanime-v14.48.apk"
+  },
+  {
+    "name": "XS Anime",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.xsanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.xsanime-v14.10.apk"
+  },
+  {
+    "name": "XS Movie",
+    "type": "anime",
+    "language": "ar",
+    "version": "14.5",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ar.xsmovie.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ar.xsmovie-v14.5.apk"
+  },
+  {
+    "name": "AniDong",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.anidong.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.anidong-v14.1.apk"
+  },
+  {
+    "name": "Anime Fire",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animefire.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animefire-v14.6.apk"
+  },
+  {
+    "name": "AnimePlayer",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.3",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeplayer.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animeplayer-v14.3.apk"
+  },
+  {
+    "name": "Animes Aria",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesaria.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animesaria-v14.2.apk"
+  },
+  {
+    "name": "Animes Digital",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.3",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesdigital.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animesdigital-v14.3.apk"
+  },
+  {
+    "name": "AnimesFox BR",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.3",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesfoxbr.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animesfoxbr-v14.3.apk"
+  },
+  {
+    "name": "Animes Games",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesgames.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animesgames-v14.2.apk"
+  },
+  {
+    "name": "AnimesOnline",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.9",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesgratis.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animesgratis-v14.9.apk"
+  },
+  {
+    "name": "Animes House",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.13",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeshouse.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animeshouse-v14.13.apk"
+  },
+  {
+    "name": "Animes Órion",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesorion.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animesorion-v14.1.apk"
+  },
+  {
+    "name": "AnimesROLL",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.3",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesroll.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animesroll-v14.3.apk"
+  },
+  {
+    "name": "AnimesTC",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.5",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animestc.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animestc-v14.5.apk"
+  },
+  {
+    "name": "AnimesVision",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.25",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animesvision.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animesvision-v14.25.apk"
+  },
+  {
+    "name": "AnimesZone",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.animeszone.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.animeszone-v14.6.apk"
+  },
+  {
+    "name": "Anitube",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.13",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.anitube.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.anitube-v14.13.apk"
+  },
+  {
+    "name": "Better Anime",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.9",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.betteranime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.betteranime-v14.9.apk"
+  },
+  {
+    "name": "Donghua no Sekai",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.donghuanosekai.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.donghuanosekai-v14.2.apk"
+  },
+  {
+    "name": "Flixei",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.flixei.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.flixei-v14.6.apk"
+  },
+  {
+    "name": "GoAnimes",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.14",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.goanimes.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.goanimes-v14.14.apk"
+  },
+  {
+    "name": "HentaisTube",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.hentaistube.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.hentaistube-v14.1.apk"
+  },
+  {
+    "name": "Hinata Soul",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.hinatasoul.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.hinatasoul-v14.4.apk"
+  },
+  {
+    "name": "Lista de Animes",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.listadeanimes.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.listadeanimes-v14.2.apk"
+  },
+  {
+    "name": "Megaflix",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.16",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.megaflix.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.megaflix-v14.16.apk"
+  },
+  {
+    "name": "Muito Hentai",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.muitohentai.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.muitohentai-v14.2.apk"
+  },
+  {
+    "name": "Pi Fansubs",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.20",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.pifansubs.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.pifansubs-v14.20.apk"
+  },
+  {
+    "name": "Pobreflix",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.9",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.pobreflix.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.pobreflix-v14.9.apk"
+  },
+  {
+    "name": "RineCloud",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.11",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.rinecloud.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.rinecloud-v14.11.apk"
+  },
+  {
+    "name": "Vizer.tv",
+    "type": "anime",
+    "language": "pt-BR",
+    "version": "14.14",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pt.vizer.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pt.vizer-v14.14.apk"
+  },
+  {
+    "name": "Anime-Sama",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.9",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.animesama.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.animesama-v14.9.apk"
+  },
+  {
+    "name": "AnimeVostFr",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.animevostfr.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.animevostfr-v14.2.apk"
+  },
+  {
+    "name": "AniSama",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.anisama.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.anisama-v14.1.apk"
+  },
+  {
+    "name": "EmpireStreaming",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.15",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.empirestreaming.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.empirestreaming-v14.15.apk"
+  },
+  {
+    "name": "FrAnime",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.11",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.franime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.franime-v14.11.apk"
+  },
+  {
+    "name": "French Anime",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.frenchanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.frenchanime-v14.7.apk"
+  },
+  {
+    "name": "HDS",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.hds.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.hds-v14.1.apk"
+  },
+  {
+    "name": "JetAnime",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.jetanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.jetanime-v14.7.apk"
+  },
+  {
+    "name": "MyKdrama",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.mykdrama.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.mykdrama-v14.2.apk"
+  },
+  {
+    "name": "NekoSama",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.nekosama.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.nekosama-v14.10.apk"
+  },
+  {
+    "name": "OtakuFR",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.11",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.otakufr.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.otakufr-v14.11.apk"
+  },
+  {
+    "name": "VoirCartoon",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.5",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.voircartoon.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.voircartoon-v14.5.apk"
+  },
+  {
+    "name": "Vostfree",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.19",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.vostfree.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.vostfree-v14.19.apk"
+  },
+  {
+    "name": "Wiflix",
+    "type": "anime",
+    "language": "fr",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.fr.wiflix.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-fr.wiflix-v14.6.apk"
+  },
+  {
+    "name": "Aniflix",
+    "type": "anime",
+    "language": "de",
+    "version": "14.27",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.aniflix.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.aniflix-v14.27.apk"
+  },
+  {
+    "name": "Aniking",
+    "type": "anime",
+    "language": "de",
+    "version": "14.17",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.aniking.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.aniking-v14.17.apk"
+  },
+  {
+    "name": "Anime-Base",
+    "type": "anime",
+    "language": "de",
+    "version": "14.23",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.animebase.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.animebase-v14.23.apk"
+  },
+  {
+    "name": "Anime-Loads",
+    "type": "anime",
+    "language": "de",
+    "version": "14.14",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.animeloads.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.animeloads-v14.14.apk"
+  },
+  {
+    "name": "Anime-Stream",
+    "type": "anime",
+    "language": "de",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.animestream.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.animestream-v14.2.apk"
+  },
+  {
+    "name": "AnimeToast",
+    "type": "anime",
+    "language": "de",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.animetoast.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.animetoast-v14.12.apk"
+  },
+  {
+    "name": "AniWorld (experimental)",
+    "type": "anime",
+    "language": "de",
+    "version": "14.22",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.aniworld.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.aniworld-v14.22.apk"
+  },
+  {
+    "name": "CineClix",
+    "type": "anime",
+    "language": "de",
+    "version": "14.13",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.cineclix.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.cineclix-v14.13.apk"
+  },
+  {
+    "name": "Cinemathek",
+    "type": "anime",
+    "language": "de",
+    "version": "14.20",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.cinemathek.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.cinemathek-v14.20.apk"
+  },
+  {
+    "name": "Einfach",
+    "type": "anime",
+    "language": "de",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.einfach.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.einfach-v14.7.apk"
+  },
+  {
+    "name": "FilmPalast",
+    "type": "anime",
+    "language": "de",
+    "version": "14.15",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.filmpalast.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.filmpalast-v14.15.apk"
+  },
+  {
+    "name": "Kinoking",
+    "type": "anime",
+    "language": "de",
+    "version": "14.21",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.kinoking.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.kinoking-v14.21.apk"
+  },
+  {
+    "name": "Kool",
+    "type": "anime",
+    "language": "de",
+    "version": "14.9",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.kool.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.kool-v14.9.apk"
+  },
+  {
+    "name": "Moflix-Stream",
+    "type": "anime",
+    "language": "de",
+    "version": "14.8",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.moflixstream.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.moflixstream-v14.8.apk"
+  },
+  {
+    "name": "Movie2k",
+    "type": "anime",
+    "language": "de",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.movie2k.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.movie2k-v14.6.apk"
+  },
+  {
+    "name": "Movie4k",
+    "type": "anime",
+    "language": "de",
+    "version": "14.9",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.movie4k.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.movie4k-v14.9.apk"
+  },
+  {
+    "name": "Serienstream",
+    "type": "anime",
+    "language": "de",
+    "version": "14.16",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.serienstream.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.serienstream-v14.16.apk"
+  },
+  {
+    "name": "StreamCloud",
+    "type": "anime",
+    "language": "de",
+    "version": "14.8",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.de.streamcloud.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-de.streamcloud-v14.8.apk"
+  },
+  {
+    "name": "AnimeSAGA",
+    "type": "anime",
+    "language": "hi",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.hi.animesaga.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-hi.animesaga-v14.10.apk"
+  },
+  {
+    "name": "YoMovies",
+    "type": "anime",
+    "language": "hi",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.hi.yomovies.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-hi.yomovies-v14.12.apk"
+  },
+  {
+    "name": "AnimeIndo",
+    "type": "anime",
+    "language": "id",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.id.animeindo.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-id.animeindo-v14.12.apk"
+  },
+  {
+    "name": "Kuramanime",
+    "type": "anime",
+    "language": "id",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.id.kuramanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-id.kuramanime-v14.12.apk"
+  },
+  {
+    "name": "Kuronime",
+    "type": "anime",
+    "language": "id",
+    "version": "14.9",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.id.kuronime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-id.kuronime-v14.9.apk"
+  },
+  {
+    "name": "MiniOppai",
+    "type": "anime",
+    "language": "id",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.id.minioppai.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-id.minioppai-v14.6.apk"
+  },
+  {
+    "name": "NeoNime",
+    "type": "anime",
+    "language": "id",
+    "version": "14.14",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.id.neonime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-id.neonime-v14.14.apk"
+  },
+  {
+    "name": "NimeGami",
+    "type": "anime",
+    "language": "id",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.id.nimegami.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-id.nimegami-v14.2.apk"
+  },
+  {
+    "name": "Oploverz",
+    "type": "anime",
+    "language": "id",
+    "version": "14.24",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.id.oploverz.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-id.oploverz-v14.24.apk"
+  },
+  {
+    "name": "OtakuDesu",
+    "type": "anime",
+    "language": "id",
+    "version": "14.25",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.id.otakudesu.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-id.otakudesu-v14.25.apk"
+  },
+  {
+    "name": "Samehadaku",
+    "type": "anime",
+    "language": "id",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.id.samehadaku.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-id.samehadaku-v14.6.apk"
+  },
+  {
+    "name": "Anime Saturn",
+    "type": "anime",
+    "language": "it",
+    "version": "14.8",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.it.animesaturn.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-it.animesaturn-v14.8.apk"
+  },
+  {
+    "name": "AnimeUnity",
+    "type": "anime",
+    "language": "it",
+    "version": "14.8",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.it.animeunity.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-it.animeunity-v14.8.apk"
+  },
+  {
+    "name": "ANIMEWORLD.tv",
+    "type": "anime",
+    "language": "it",
+    "version": "14.36",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.it.animeworld.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-it.animeworld-v14.36.apk"
+  },
+  {
+    "name": "AniPlay",
+    "type": "anime",
+    "language": "it",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.it.aniplay.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-it.aniplay-v14.10.apk"
+  },
+  {
+    "name": "Hentai Saturn",
+    "type": "anime",
+    "language": "it",
+    "version": "14.5",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.it.hentaisaturn.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-it.hentaisaturn-v14.5.apk"
+  },
+  {
+    "name": "StreamingCommunity",
+    "type": "anime",
+    "language": "it",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.it.streamingcommunity.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-it.streamingcommunity-v14.4.apk"
+  },
+  {
+    "name": "Toonitalia",
+    "type": "anime",
+    "language": "it",
+    "version": "14.20",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.it.toonitalia.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-it.toonitalia-v14.20.apk"
+  },
+  {
+    "name": "VVVVID",
+    "type": "anime",
+    "language": "it",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.it.vvvvid.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-it.vvvvid-v14.1.apk"
+  },
+  {
+    "name": "Aniweek",
+    "type": "anime",
+    "language": "ko",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ko.aniweek.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ko.aniweek-v14.7.apk"
+  },
+  {
+    "name": "desu-online",
+    "type": "anime",
+    "language": "pl",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pl.desuonline.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pl.desuonline-v14.7.apk"
+  },
+  {
+    "name": "Wbijam",
+    "type": "anime",
+    "language": "pl",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.pl.wbijam.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-pl.wbijam-v14.4.apk"
+  },
+  {
+    "name": "Animelib",
+    "type": "anime",
+    "language": "ru",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ru.animelib.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ru.animelib-v14.1.apk"
+  },
+  {
+    "name": "Animevost",
+    "type": "anime",
+    "language": "ru",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.ru.animevost.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-ru.animevost-v14.7.apk"
+  },
+  {
+    "name": "AnimeBalkan",
+    "type": "anime",
+    "language": "sr",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.sr.animebalkan.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-sr.animebalkan-v14.4.apk"
+  },
+  {
+    "name": "Anime Srbija",
+    "type": "anime",
+    "language": "sr",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.sr.animesrbija.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-sr.animesrbija-v14.7.apk"
+  },
+  {
+    "name": "Animefenix",
+    "type": "anime",
+    "language": "es",
+    "version": "14.36",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.animefenix.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.animefenix-v14.36.apk"
+  },
+  {
+    "name": "AnimeFLV",
+    "type": "anime",
+    "language": "es",
+    "version": "14.55",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.animeflv.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.animeflv-v14.55.apk"
+  },
+  {
+    "name": "AnimeID",
+    "type": "anime",
+    "language": "es",
+    "version": "14.8",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.animeid.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.animeid-v14.8.apk"
+  },
+  {
+    "name": "AnimeLatinoHD",
+    "type": "anime",
+    "language": "es",
+    "version": "14.31",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.animelatinohd.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.animelatinohd-v14.31.apk"
+  },
+  {
+    "name": "AnimeMovil",
+    "type": "anime",
+    "language": "es",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.animemovil.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.animemovil-v14.12.apk"
+  },
+  {
+    "name": "AnimeOnline.Ninja",
+    "type": "anime",
+    "language": "es",
+    "version": "14.37",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.animeonlineninja.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.animeonlineninja-v14.37.apk"
+  },
+  {
+    "name": "Animeyt",
+    "type": "anime",
+    "language": "es",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.animeyt.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.animeyt-v14.10.apk"
+  },
+  {
+    "name": "AnimeYT.es",
+    "type": "anime",
+    "language": "es",
+    "version": "14.5",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.animeytes.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.animeytes-v14.5.apk"
+  },
+  {
+    "name": "AsiaLiveAction",
+    "type": "anime",
+    "language": "es",
+    "version": "14.28",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.asialiveaction.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.asialiveaction-v14.28.apk"
+  },
+  {
+    "name": "BeatZ Anime",
+    "type": "anime",
+    "language": "es",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.beatzanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.beatzanime-v14.1.apk"
+  },
+  {
+    "name": "Cuevana",
+    "type": "anime",
+    "language": "es",
+    "version": "14.29",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.cuevana.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.cuevana-v14.29.apk"
+  },
+  {
+    "name": "Doramasflix",
+    "type": "anime",
+    "language": "es",
+    "version": "14.18",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.doramasflix.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.doramasflix-v14.18.apk"
+  },
+  {
+    "name": "Doramasyt",
+    "type": "anime",
+    "language": "es",
+    "version": "14.13",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.doramasyt.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.doramasyt-v14.13.apk"
+  },
+  {
+    "name": "EnNovelas",
+    "type": "anime",
+    "language": "es",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.ennovelas.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.ennovelas-v14.10.apk"
+  },
+  {
+    "name": "FanPelis",
+    "type": "anime",
+    "language": "es",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.fanpelis.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.fanpelis-v14.12.apk"
+  },
+  {
+    "name": "Gnula",
+    "type": "anime",
+    "language": "es",
+    "version": "14.16",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.gnula.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.gnula-v14.16.apk"
+  },
+  {
+    "name": "Hackstore",
+    "type": "anime",
+    "language": "es",
+    "version": "14.6",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.hackstore.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.hackstore-v14.6.apk"
+  },
+  {
+    "name": "Hentaijk",
+    "type": "anime",
+    "language": "es",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.hentaijk.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.hentaijk-v14.12.apk"
+  },
+  {
+    "name": "HentaiLA",
+    "type": "anime",
+    "language": "es",
+    "version": "14.23",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.hentaila.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.hentaila-v14.23.apk"
+  },
+  {
+    "name": "Jkanime",
+    "type": "anime",
+    "language": "es",
+    "version": "14.19",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.jkanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.jkanime-v14.19.apk"
+  },
+  {
+    "name": "Jkhentai",
+    "type": "anime",
+    "language": "es",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.jkhentai.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.jkhentai-v14.10.apk"
+  },
+  {
+    "name": "LACartoons",
+    "type": "anime",
+    "language": "es",
+    "version": "14.2",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.lacartoons.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.lacartoons-v14.2.apk"
+  },
+  {
+    "name": "Latanime",
+    "type": "anime",
+    "language": "es",
+    "version": "14.15",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.latanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.latanime-v14.15.apk"
+  },
+  {
+    "name": "LegionAnime",
+    "type": "anime",
+    "language": "es",
+    "version": "14.31",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.legionanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.legionanime-v14.31.apk"
+  },
+  {
+    "name": "LocoPelis",
+    "type": "anime",
+    "language": "es",
+    "version": "14.22",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.locopelis.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.locopelis-v14.22.apk"
+  },
+  {
+    "name": "MetroSeries",
+    "type": "anime",
+    "language": "es",
+    "version": "14.7",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.metroseries.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.metroseries-v14.7.apk"
+  },
+  {
+    "name": "MonosChinos",
+    "type": "anime",
+    "language": "es",
+    "version": "14.26",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.monoschinos.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.monoschinos-v14.26.apk"
+  },
+  {
+    "name": "MundoDonghua",
+    "type": "anime",
+    "language": "es",
+    "version": "14.20",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.mundodonghua.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.mundodonghua-v14.20.apk"
+  },
+  {
+    "name": "Pelisflix",
+    "type": "anime",
+    "language": "es",
+    "version": "14.14",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisflix.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.pelisflix-v14.14.apk"
+  },
+  {
+    "name": "PelisForte",
+    "type": "anime",
+    "language": "es",
+    "version": "14.12",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisforte.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.pelisforte-v14.12.apk"
+  },
+  {
+    "name": "Pelisplushd",
+    "type": "anime",
+    "language": "es",
+    "version": "14.51",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.pelisplushd.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.pelisplushd-v14.51.apk"
+  },
+  {
+    "name": "TioanimeH",
+    "type": "anime",
+    "language": "es",
+    "version": "14.16",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.tioanimeh.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.tioanimeh-v14.16.apk"
+  },
+  {
+    "name": "Tiodonghua.com",
+    "type": "anime",
+    "language": "es",
+    "version": "14.4",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.es.tiodonghua.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-es.tiodonghua-v14.4.apk"
+  },
+  {
+    "name": "Animeler",
+    "type": "anime",
+    "language": "tr",
+    "version": "14.10",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.tr.animeler.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-tr.animeler-v14.10.apk"
+  },
+  {
+    "name": "Anizm",
+    "type": "anime",
+    "language": "tr",
+    "version": "14.18",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.tr.anizm.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-tr.anizm-v14.18.apk"
+  },
+  {
+    "name": "AsyaAnimeleri",
+    "type": "anime",
+    "language": "tr",
+    "version": "14.5",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.tr.asyaanimeleri.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-tr.asyaanimeleri-v14.5.apk"
+  },
+  {
+    "name": "HDFilmCehennemi",
+    "type": "anime",
+    "language": "tr",
+    "version": "14.14",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.tr.hdfilmcehennemi.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-tr.hdfilmcehennemi-v14.14.apk"
+  },
+  {
+    "name": "HentaiZM",
+    "type": "anime",
+    "language": "tr",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.tr.hentaizm.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-tr.hentaizm-v14.1.apk"
+  },
+  {
+    "name": "TRAnimeCI",
+    "type": "anime",
+    "language": "tr",
+    "version": "14.3",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.tr.tranimeci.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-tr.tranimeci-v14.3.apk"
+  },
+  {
+    "name": "TR Anime Izle",
+    "type": "anime",
+    "language": "tr",
+    "version": "14.14",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.tr.tranimeizle.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-tr.tranimeizle-v14.14.apk"
+  },
+  {
+    "name": "Türk Anime TV",
+    "type": "anime",
+    "language": "tr",
+    "version": "14.22",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.tr.turkanime.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-tr.turkanime-v14.22.apk"
+  },
+  {
+    "name": "UAKino",
+    "type": "anime",
+    "language": "uk",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.uk.uakino.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-uk.uakino-v14.1.apk"
+  },
+  {
+    "name": "UFDub",
+    "type": "anime",
+    "language": "uk",
+    "version": "14.1",
+    "iconSrc": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/icon/eu.kanade.tachiyomi.animeextension.uk.ufdub.png",
+    "downloadHref": "https://raw.githubusercontent.com/aniyomiorg/aniyomi-extensions/repo/apk/aniyomi-uk.ufdub-v14.1.apk"
+  }
+]
