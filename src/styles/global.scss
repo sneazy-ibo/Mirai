@@ -42,7 +42,7 @@ body {
 
   display: flex;
   align-items: flex-start;
-  
+  justify-content: space-between;
   > div {
     flex: 1;
   }
@@ -54,6 +54,17 @@ body {
 
 .container {
   flex-shrink: 0;
+}
+
+img {
+  transition: transform 0.5s ease;
+  position: absolute;
+  border-radius: 5px;
+}
+
+img:hover {
+  outline: 5px solid rgba(255, 255, 255, 0.23);
+  border-radius: 5px;
 }
 
 :root {

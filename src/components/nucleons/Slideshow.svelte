@@ -72,18 +72,6 @@
   height: 200px;
   position: relative;
 }
-
-img {
-  transition: transform 0.5s ease;
-  position: absolute;
-  border-radius: 5px;
-}
-
-img:hover {
-  outline: 5px solid rgba(255, 255, 255, 0.23);
-  border-radius: 5px;
-}
-
 .position-0 {
   transform: translateX(-175px) scale(0.75);
   z-index: 1;

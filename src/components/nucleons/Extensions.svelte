@@ -43,8 +43,8 @@
   });
 </script>
 
-<div class="scroller">
-  <div class="scroller__inner">
+<div class="gallery">
+  <div class="gallery__inner">
     {#each imageUrls as imageUrl, index}
       <button class="image-container" on:click|stopPropagation={() => showPopup(extensionItems[index])}>
         <img src={imageUrl} alt="Icon" />
@@ -72,12 +72,20 @@
 <style lang="scss">
   @import '../../styles/mixins.scss';
 
-  .scroller {
+  .gallery {
     max-width: 1000px;
     margin: auto;
     display: flex;
     justify-content: center;
     overflow: hidden; 
+  }
+
+  img {
+  position: static;
+  }
+
+  img:hover {
+    outline: none;
   }
 
   .image-container {
