@@ -60,6 +60,7 @@ img {
   transition: transform 0.5s ease;
   position: absolute;
   border-radius: 5px;
+  user-select: none;
 }
 
 img:hover {
