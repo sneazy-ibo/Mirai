@@ -65,108 +65,109 @@
 <style lang="scss">
 @import '../../styles/mixins.scss';
 
-.slideshow {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  height: 200px;
-  position: relative;
-}
-.position-0 {
-  transform: translateX(-175px) scale(0.75);
-  z-index: 1;
-  opacity: 0.8;
-}
-
-.position-1 {
-  transform: translateX(0) scale(1);
-  z-index: 2;
-}
-
-.position-2 {
-  transform: translateX(175px) scale(0.75);
-  z-index: 1;
-  opacity: 0.8;
-}
-
-.arrow {
-  filter: drop-shadow(0 0 10px #FFBFFF);
-}
-
-.arrow::before {
-  content: '';
-  width: 120px;
-  height: 100px;
-  background-color: #ffbfff70;
-  border-radius: 100%;
-  filter: blur(70px);
-  position: absolute;
-  top: 40%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-}
-
-.button {
-  background: none;
-  border: none;
-  cursor: pointer;
-  font-size: 4rem;
-  color: #fff;
-  position: absolute;
-  bottom: -150px;
-  z-index: 3;
-}
-
-.prev-button {
-  @extend .button;
-  left: 1.5em;
-}
-
-.next-button {
-  @extend .button;
-  right: 1.5em;
-}
-
-.media-text::before {
-  content: '';
-  width: 120px;
-  height: 100px;
-  background-color: #ffbfff;
-  border-radius: 100%;
-  filter: blur(70px);
-  position: absolute;
-}
-
-.media-text {
-  top: -35%;
-  left: -50%;
-  position: absolute;
-  font-size: 2rem;
-  font-weight: bold;
-  color: #fff;
-  text-align: center;
-  z-index: 2;
-  pointer-events: none;
-  @include text-glow(#FFBFFF, 2, 20px, 50px);
-  @include text-gradient(0deg, (
-    #FFF 0%,
-    #FFF 100%
-    ));
-    
-    &.text-transition {
-      animation: bounce 0.5s ease both;
+  .slideshow {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 200px;
+    position: relative;
   }
 
-  @keyframes bounce {
-    0% {
-      transform: translateY(0);
+  .position-0 {
+    transform: translateX(-175px) scale(0.75);
+    z-index: 1;
+    opacity: 0.8;
+  }
+
+  .position-1 {
+    transform: translateX(0) scale(1);
+    z-index: 2;
+  }
+
+  .position-2 {
+    transform: translateX(175px) scale(0.75);
+    z-index: 1;
+    opacity: 0.8;
+  }
+
+  .arrow {
+    filter: drop-shadow(0 0 10px #FFBFFF);
+  }
+
+  .arrow::before {
+    content: '';
+    width: 120px;
+    height: 100px;
+    background-color: #ffbfff70;
+    border-radius: 100%;
+    filter: blur(70px);
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+
+  .button {
+    background: none;
+    border: none;
+    cursor: pointer;
+    font-size: 4rem;
+    color: #fff;
+    position: absolute;
+    bottom: -150px;
+    z-index: 3;
+  }
+
+  .prev-button {
+    @extend .button;
+    left: 1.5em;
+  }
+
+  .next-button {
+    @extend .button;
+    right: 1.5em;
+  }
+
+  .media-text::before {
+    content: '';
+    width: 120px;
+    height: 100px;
+    background-color: #ffbfff;
+    border-radius: 100%;
+    filter: blur(70px);
+    position: absolute;
+  }
+
+  .media-text {
+    top: -35%;
+    left: -7.5em;
+    position: absolute;
+    font-size: 2rem;
+    font-weight: bold;
+    color: #fff;
+    text-align: center;
+    z-index: 2;
+    pointer-events: none;
+    @include text-glow(#FFBFFF, 2, 20px, 50px);
+    @include text-gradient(0deg, (
+      #FFF 0%,
+      #FFF 100%
+      ));
+      
+      &.text-transition {
+        animation: bounce 0.5s ease both;
     }
-    50% {
-      transform: translateY(0.7em);
-    }
-    100% {
-      transform: translateY(0);
+
+    @keyframes bounce {
+      0% {
+        transform: translateY(0);
+      }
+      50% {
+        transform: translateY(0.7em);
+      }
+      100% {
+        transform: translateY(0);
+      }
     }
   }
-}
 </style>

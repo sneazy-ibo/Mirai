@@ -73,7 +73,7 @@
     top: 0;
     z-index: 1;
     opacity: 1;
-    transition: opacity 1500ms;
+    transition: opacity 300ms;
 
     .profiles:not(:hover) & {
       opacity: 1;

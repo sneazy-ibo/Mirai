@@ -19,6 +19,7 @@
   flex-direction: column;
   align-items: center;
   margin-bottom: 0;
+  margin-top: -5%;
   > div {
     flex: 1;
     width: 100%;
