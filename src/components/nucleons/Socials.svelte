@@ -38,6 +38,8 @@
     margin-top: 3em;
     margin-left: 8em;
     display: flex;
-    gap: 5em;
+    flex-direction: column;
+    gap: 4em;
+    overflow: visible;
   }
 </style>

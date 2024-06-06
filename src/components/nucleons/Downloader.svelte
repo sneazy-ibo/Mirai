@@ -59,6 +59,9 @@
         transform: translate(-120%, -50%);
       }
     }
+    img {
+      position: absolute;
+    }
 
     .display {
       width: 250px;

@@ -21,7 +21,7 @@
 button {
   border: calc(0.08 * var(--m)) solid transparent;
   position: relative;
-  width: 5em;
+  width: 6em;
   color: #F3F3F3;
   font-family: 'Space Grotesk';
   font-size: var(--m);
@@ -29,7 +29,7 @@ button {
   border-radius: calc(0.7 * var(--m));
   padding: calc(0.5 * var(--m)) calc(1 * var(--m));
   display: flex;
-  justify-content: center;
+  text-align: left;
   cursor: pointer;
   
   background:linear-gradient(var(--dantotsu-6), var(--dantotsu-6)), linear-gradient(#121213 50%, rgba(18, 18, 19, 0.6) 80%, rgba(18, 18, 19, 0)),  linear-gradient(90deg, var(--orange), var(--yellow), var(--green), var(--blue), var(--purple), var(--pink), var(--red));

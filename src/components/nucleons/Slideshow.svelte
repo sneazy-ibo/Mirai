@@ -71,6 +71,9 @@
     align-items: center;
     height: 200px;
     position: relative;
+    img {
+      position: absolute;
+    }
   }
 
   .position-0 {

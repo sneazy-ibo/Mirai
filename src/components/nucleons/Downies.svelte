@@ -4,14 +4,13 @@
 
 <div class="button-container">
   <Button label="Stable"/>
-  <Button label="Beta"/>
-  <Button label="Alpha"/>
 </div>
   
 <style>
   .button-container {
-    margin: 2em;
+    margin-top: 1em;
+    margin-left: -0.2em;
     display: flex;
-    gap: 4em;
+    gap: 0;
   }
 </style>
